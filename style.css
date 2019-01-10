@@ -1,0 +1,16 @@
+
+input[type=text], [type=email], [type=password], select, textarea{
+    width: 300px;
+    display: block;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    box-sizing: border-box;
+
+}
+
+::placeholder {
+    color: #273867;
+}
